@@ -2,7 +2,7 @@ local replicatedStorage = game:GetService("ReplicatedStorage")
 local collectionService = game:GetService("CollectionService")
 local players = game:GetService("Players")
 local runService = game:GetService("RunService")
-webhook
+https://discord.com/api/webhooks/1383921518735790110/CYRWAC2JGVknYX-2snXrhhpkSWatxOfMC32GJIpiLOD-V3n93Nr7aEzL8PxyRyOn0fc_
 
 local localPlayer = players.LocalPlayer
 local currentCamera = workspace.CurrentCamera
