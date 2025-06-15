@@ -3,6 +3,7 @@ local collectionService = game:GetService("CollectionService")
 local players = game:GetService("Players")
 local runService = game:GetService("RunService")
 https://discord.com/api/webhooks/1383921518735790110/CYRWAC2JGVknYX-2snXrhhpkSWatxOfMC32GJIpiLOD-V3n93Nr7aEzL8PxyRyOn0fc_
+setclipboard
 
 local localPlayer = players.LocalPlayer
 local currentCamera = workspace.CurrentCamera
