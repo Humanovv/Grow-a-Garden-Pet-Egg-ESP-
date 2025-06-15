@@ -98,4 +98,3 @@ local old; old = hookfunction(getconnections(replicatedStorage.GameEvents.EggRea
 end))
 
 runService.PreRender:Connect(UpdateAllEsp)
--- // More scripts: t.me/arceusxscripts
